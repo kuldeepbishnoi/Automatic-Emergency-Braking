@@ -15,7 +15,7 @@ LaneNet algorithm is a state of art deep convolution neural network which is use
 <p align="center">**LaneNet**<img src="Output_GIF/laneNet.gif"\></p>
 
 ### DeepSORT
-We use YOLO v3 algorithm to perform vehicle detections. Then we take this output of YOLO v3 feed these vehicle detections into DeepSORT in order to create a highly accurate vehicle tracker.
+We use YOLO v3 algorithm to perform vehicle detections. Then we take this output of YOLO v3 and feed it to these vehicle detections into DeepSORT in order to create a highly accurate vehicle tracker.
 <p align="center">**DeepSORT**<img src="Output_GIF/deepSORT.gif"\></p>
 
 ### Automatic Emergency Braking System
