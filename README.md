@@ -11,15 +11,24 @@ This repository contains code for a project whose goal is to Implement **Automat
 
 ## Brief Intro
 ### LaneNet
-LaneNet algorithm is a state of art deep convolution neural network which is used to detect lanes and it is implemented using tensorflow.
-<p align="center">**LaneNet**<img src="Output_GIF/laneNet.gif"\></p>
+LaneNet algorithm is a state of art deep convolution neural network which is used to detect lanes and is implemented using tensorflow.
+<p align="center">
+  LaneNet Output
+  <img src="Output_GIF/laneNet.gif"\>
+</p>
 
 ### DeepSORT
-We use YOLO v3 algorithm to perform vehicle detections. Then we take this output of YOLO v3 and feed it to these vehicle detections into DeepSORT in order to create a highly accurate vehicle tracker.
-<p align="center">**DeepSORT**<img src="Output_GIF/deepSORT.gif"\></p>
+We use YOLO v3 algorithm to perform vehicle detections. Then we take this output feed it to DeepSORT in order to create a highly accurate vehicle tracker.
+<p align="center">
+  DeepSORT Output
+  <img src="Output_GIF/deepSORT.gif"\>
+</p>
 
 ### Automatic Emergency Braking System
-<p align="center">**Automatic Emergency Braking System**<img src="Output_GIF/EBS.gif"\></p>
+<p align="center">
+  **Automatic Emergency Braking System Output
+  <img src="Output_GIF/EBS.gif"\>
+</p>
 
 
 ## Installation
@@ -30,7 +39,6 @@ Required package could be installed by following the given steps.
 ```
 pip3 install -r requirements.txt
 ```
-
 
 
 ## Test model
