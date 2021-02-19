@@ -26,7 +26,7 @@ We use YOLO v3 algorithm to perform vehicle detections. Then we take this output
 
 ### Automatic Emergency Braking System
 <p align="center">
-  **Automatic Emergency Braking System Output
+  Automatic Emergency Braking System Output
   <img src="Output_GIF/EBS.gif"\>
 </p>
 
