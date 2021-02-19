@@ -12,11 +12,11 @@ This repository contains code for a project whose goal is to Implement **Automat
 
 
 ## Brief Intro
-###LaneNet
+### LaneNet
 LaneNet algorithm is a state of art deep convolution neural network which is used to detect lanes and it is implemented using tensorflow.
 
 #### YOLO v4 - LaneNet
-<p align="center"><img src="Output_GIF/laneNet.gif"\></p>
+<p align="center">YOLO v4 - LaneNet<img src="Output_GIF/laneNet.gif"\></p>
 
 
 ### DeepSORT
