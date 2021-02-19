@@ -1,7 +1,7 @@
 # Automatic Emergency Braking System
 This repository contains code for a project whose goal is to Implement **Automatic Emergency Braking System** using a monocular camera. This model is trained on [tusimple lane dataset](https://github.com/TuSimple/tusimple-benchmark).
 
-
+![](Result_GIF/LD/temp_result.gif)
 
 ## Algorithm Used: 
 - [LaneNet](https://github.com/MaybeShewill-CV/lanenet-lane-detection) 
