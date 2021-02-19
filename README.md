@@ -34,9 +34,9 @@ This feature can sense incoming(traffic coming to ego lanes) and slow(as well as
 ## Installation
 Required package could be installed by following the given steps.
 
-1. Download Github Repository
-2. Download the weights from the given [link](https://drive.google.com/drive/folders/12GGs4TI6tFADUrnlE20IG43-BAeXhtz5?usp=sharing) and keep in the similar folder structure as kept in the link.
-3. Install [Anaconda](https://anaconda.org)
+1. Download Github Repository.
+2. Download the weights from the given [link](https://drive.google.com/drive/folders/12GGs4TI6tFADUrnlE20IG43-BAeXhtz5?usp=sharing) and keep them in the similar folder structure as kept in the link.
+3. Install [Anaconda](https://anaconda.org).
 4. Run the given command in anaconda prompt.
 ```
 pip3 install -r requirements.txt
