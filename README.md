@@ -1,7 +1,7 @@
 # Automatic Emergency Braking System
 This repository contains code for a project whose goal is to Implement **Automatic Emergency Braking System** using a monocular camera. This model is trained on tusimple lane dataset.
 
-####Automonomus Emergency Braking System
+#### Automonomus Emergency Braking System
 <p align="center"><img src="Output_GIF/EBS.gif"\></p>
 
 
@@ -15,14 +15,14 @@ This repository contains code for a project whose goal is to Implement **Automat
 ###LaneNet
 LaneNet algorithm is a state of art deep convolution neural network which is used to detect lanes and it is implemented using tensorflow.
 
-####YOLO v4 - LaneNet
+#### YOLO v4 - LaneNet
 <p align="center"><img src="Output_GIF/laneNet.gif"\></p>
 
 
-###DeepSORT
+### DeepSORT
 YOLOv4 algorithm also uses deep convolutional neural networks to perform object detections. Then we take this output of YOLOv4 feed these object detections into DeepSORT in order to create a highly accurate vehicle tracker.
 
-####YOLO v4 - DeepSORT
+#### YOLO v4 - DeepSORT
 <p align="center"><img src="Output_GIF/deepSORT.gif"\></p>
 
 
