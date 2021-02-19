@@ -5,9 +5,10 @@ This repository contains code for a project whose goal is to Implement **Automat
 <p align="center"><img src="Output_GIF/EBS.gif"\></p>
 
 
-## Algorithm Used: **LaneNet**
-                   **DeepSORT (YOLO v3)**
-				   **Emergency Braking System**
+## Algorithm Used: 
+**LaneNet**
+**DeepSORT (YOLO v3)**
+**Emergency Braking System**
 
 
 ## Brief Intro
