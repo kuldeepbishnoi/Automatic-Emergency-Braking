@@ -1,7 +1,6 @@
 # Automatic Emergency Braking System
 This repository contains code for a project whose goal is to Implement **Automatic Emergency Braking System** using a monocular camera. This model is trained on [tusimple lane dataset](https://github.com/TuSimple/tusimple-benchmark).
 
-![](Result_GIF/LD/temp_result.gif)
 
 ## Algorithm Used: 
 - [LaneNet](https://github.com/MaybeShewill-CV/lanenet-lane-detection) 
@@ -14,7 +13,7 @@ This repository contains code for a project whose goal is to Implement **Automat
 LaneNet algorithm is a state of art deep convolution neural network which is used to detect lanes and is implemented using tensorflow.
 <p align="center">
   LaneNet Output
-  <img src="Result_GIF/LD/temp_result.gif"\>
+  <img src="temp_result.gif"\>
 </p>
 
 ### DeepSORT
