@@ -13,21 +13,21 @@ This repository contains code for a project whose goal is to Implement **Automat
 LaneNet algorithm is a state of art deep convolution neural network which is used to detect lanes and is implemented using tensorflow.
 <p align="center">
   LaneNet Output
-  <img src="temp_result.gif"\>
+  <img src="LaneNet.gif"\>
 </p>
 
 ### DeepSORT
 We use YOLO v3 algorithm to perform vehicle detections. Then we take this output feed it to DeepSORT in order to create a highly accurate vehicle tracker.
 <p align="center">
   DeepSORT Output
-  <img src=Result_GIF/OD/temp_result.gif.gif"\>
+  <img src=DeepSORT.gif"\>
 </p>
 
 ### Automatic Emergency Braking System
 This feature can sense incoming(traffic coming to ego lanes) and slow(as well as stopped) traffic ahead and urgently apply the brakes.
 <p align="center">
   Automatic Emergency Braking System Output
-  <img src="Result_GIF/EBS/temp_result.gif.gif"\>
+  <img src="EBS.gif"\>
 </p>
 
 
