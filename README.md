@@ -49,7 +49,7 @@ You can test the provided test frames on the model by following the given steps.
 ```
 activate EBS
 ```
-2.Run the test_ebs file by using the given command.
+2. Run the test_ebs file by using the given command.
 ```
 python test_ebs.py 
 ```
