@@ -23,21 +23,23 @@ We use YOLO v3 algorithm to perform vehicle detections. Then we take this output
 
 
 ## Installation
-Required package could be installed by running the given command.
+Required package could be installed by following the given steps.
 
 1. Download Github Repository
-2. Install [Anaconda](https://anaconda.org/) & Run the following commands in anaconda prompt
+2. Install [Anaconda](https://anaconda.org)
 ```
 pip3 install -r requirements.txt
 ```
 
-3. Activate the environment by using the given command
+
+
+## Test model
+You can test the provided test frames on the model by following the given steps.
+1. Activate the environment in anaconda prompt by using the given command.
 ```
 activate EBS
 ```
-
-## Test model
-You can test the given test frames on the trained model as follows
+2.Run the test_ebs file by using the given command.
 ```
 python test_ebs.py 
 ```
