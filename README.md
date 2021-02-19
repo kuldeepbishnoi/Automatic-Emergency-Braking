@@ -26,7 +26,7 @@ We use YOLO v3 algorithm to perform vehicle detections. Then we take this output
 Required package could be installed by running the given command.
 
 1. Download Github Repository
-2. Install Anaconda & Run the following commands in anaconda prompt
+2. Install [Anaconda](https://anaconda.org/) & Run the following commands in anaconda prompt
 ```
 pip3 install -r requirements.txt
 ```
