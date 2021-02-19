@@ -25,6 +25,7 @@ We use YOLO v3 algorithm to perform vehicle detections. Then we take this output
 </p>
 
 ### Automatic Emergency Braking System
+This feature can sense incoming(traffic coming to ego lanes) and slow(as well as stopped) traffic ahead and urgently apply the brakes.
 <p align="center">
   Automatic Emergency Braking System Output
   <img src="Output_GIF/EBS.gif"\>
