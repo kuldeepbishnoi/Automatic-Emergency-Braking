@@ -4,8 +4,8 @@ This repository contains code for a project whose goal is to Implement **Automat
 
 
 ## Algorithm Used: 
-- LaneNet 
-- DeepSORT (YOLO v3) 
+- [LaneNet](https://github.com/MaybeShewill-CV/lanenet-lane-detection) 
+- [DeepSORT (YOLO v3)](https://github.com/nwojke/deep_sort) 
 - Automatic Emergency Braking System 
 
 
