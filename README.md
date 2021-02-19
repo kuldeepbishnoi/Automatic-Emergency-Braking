@@ -36,6 +36,7 @@ Required package could be installed by following the given steps.
 
 1. Download Github Repository
 2. Install [Anaconda](https://anaconda.org)
+3. Run the given command in anaconda prompt.
 ```
 pip3 install -r requirements.txt
 ```
@@ -43,6 +44,7 @@ pip3 install -r requirements.txt
 
 ## Test model
 You can test the provided test frames on the model by following the given steps.
+
 1. Activate the environment in anaconda prompt by using the given command.
 ```
 activate EBS
