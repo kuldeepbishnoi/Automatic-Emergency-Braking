@@ -39,7 +39,7 @@ Required package could be installed by following the given steps.
 3. Install [Anaconda](https://anaconda.org).
 4. Run the given command in anaconda prompt.
 ```
-pip3 install -r requirements.txt
+conda env create -f requirements.txt
 ```
 
 
